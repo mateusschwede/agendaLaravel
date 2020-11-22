@@ -1,0 +1,3 @@
+1- Criar BD agenda
+2- Criar projeto Laravel: composer create-project --prefer-dist laravel/laravel agendaLaravel
+3- Configurar BD em .env
